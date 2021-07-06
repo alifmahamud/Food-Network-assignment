@@ -37,18 +37,33 @@ section-2{
     margin-bottom: 100px;
 }
 #img-size{
-    max-width: 60%;
+    max-width: 90%;
     height: auto;
 }
 .box{
     display: flex;
-    margin-left: 20%;
-
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 #box-width{
     width: 33%;
 }
 #box-width{
     text-align: center;
+    box-shadow: 10px 10px 40px grey;
+}
+.box-1{
+    margin-right: 5%;
+    padding-top: 2%;
+    border-radius: 20px;
+}
+.box-2{
+    padding-top: 2%;
+    border-radius: 20px;
+}
+.box-3{
+    margin-left: 5%;
+    padding-top: 2%;
+    border-radius: 20px;
+
 }
