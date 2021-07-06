@@ -19,6 +19,7 @@ h1{
 }
 .button{
     text-decoration: none;
+    color: white;
     background-color:solid;
     background-image: linear-gradient(orange, salmon);
     padding: 10px 40px;
